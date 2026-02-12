@@ -23,7 +23,7 @@ client = OpenAI(api_key=api_key)
 # ----------------------------
 # INPUT PDF
 # ----------------------------
-pdf_path = Path(r"E:\XRZONE_Files\PDFExtractor\pdf-ris\samples\257.pdf")
+pdf_path = Path(r"E:\XRZONE_Files\PDFExtractor\pdf-ris\samples\266.pdf")
 base_name = pdf_path.stem
 output_dir = pdf_path.parent
 ocr_total_path = output_dir / f"{base_name}_total.txt"
