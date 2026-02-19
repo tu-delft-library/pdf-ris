@@ -1,0 +1,26 @@
+{
+  "title": "Characterizing the CPT Response and Particle Size Distribution of Fluviably Deposited Pleistocene Sand in the Netherlands",
+  "authors": [
+    "Fenna van Aarle",
+    "Kevin Duffy",
+    "Kay Koster",
+    "Dominique Ngan-Tillard",
+    "Ronald Harting",
+    "Freek Busschers"
+  ],
+  "year": 2024,
+  "abstract": "Understanding the geological and geotechnical characteristics of the shallow subsurface is crucial for engineering decisions in densely populated regions like the Netherlands. Urban areas are for a large part built on a complex stack of sand, clay, silt, gravel and organics that were deposited over the last hundreds of thousands of years under gradually subsiding tectonic conditions. One of these units, a fluvially deposited sand known as the Kreftenheye Formation, is widespread across the western part of the country and is vital for foundation design and groundwater dynamics. The Kreftenheye Formation is therefore well described by geotechnical and geological tests, yet integrating both types of data has rarely been done on a nationwide scale. This paper focuses on 76 pairs of Cone Penetration Tests and boreholes that include Kreftenheye, out of a full database of nearly 200 pairs from TNO - Geological Survey of the Netherlands, generally reaching depths up to 40 meters. The study reveals significant spatial variations and depositional patterns within the Kreftenheye Formation, illustrating how overlying or interlayered flood plain or soft channel lag sediments influence the response of the CPT. Furthermore, CPT response and borehole samples have helped with making geological distinctions between the upper, Weichselian part of the Kreftenheye Formation and the lower Saalian part, showing how integrating both datasets can give both geological and geotechnical insights.",
+  "keywords": [
+    "CPT",
+    "soil variability",
+    "granular soil",
+    "particle size distribution",
+    "Late Pleistocene",
+    "fluvial sand"
+  ],
+  "doi": "https://doi.org/10.5592/CO/EUROENGEO.2024.266",
+  "journal": null,
+  "publisher": null,
+  "conference_title": "4th European Regional Conference of IAEG",
+  "conference_dates": "2024"
+}
