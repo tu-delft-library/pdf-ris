@@ -1,5 +1,5 @@
 {
-  "title": "Characterizing the CPT Response and Particle Size Distribution of Fluviably Deposited Pleistocene Sand in the Netherlands",
+  "title": "Characterizing the CPT Response and Particle Size Distribution of Fluvially Deposited Pleistocene Sand in the Netherlands",
   "authors": [
     "Fenna van Aarle",
     "Kevin Duffy",
@@ -19,8 +19,14 @@
     "fluvial sand"
   ],
   "doi": "https://doi.org/10.5592/CO/EUROENGEO.2024.266",
-  "journal": null,
-  "publisher": null,
-  "conference_title": "4th European Regional Conference of IAEG",
-  "conference_dates": "2024"
+  "publication_type": "Conference Paper",
+  "publisher": "IAEG",
+  "conference_name": "4th European Regional Conference of IAEG",
+  "conference_acronym": "EUROENGEO 2024",
+  "conference_place": "Delft University of Technology, The Netherlands",
+  "conference_country": "Netherlands",
+  "conference_dates": {
+    "start_date": "2024-xx-xx",
+    "end_date": "2024-xx-xx"
+  }
 }
